@@ -1,0 +1,68 @@
+body {
+    background-color: rgb(237, 237, 237);
+}
+
+h1 {
+    font-size: 30px;
+    color: coral;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: purple;
+}
+
+#buttonDiv {
+    margin: 0 auto;
+}
+
+button {
+    border: 2px coral dotted;
+    border-radius: 50px;
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    color: coral;
+    font-size: 20px;
+    margin-left: 10%;
+}
+
+button:hover {
+    background-color: rgb(237, 237, 237);
+}
+
+#iceCremeDiv {
+    margin-left: 50%;
+}
+
+#cone {
+    height: 0px;
+    width: 0px;
+    border-top: 110px solid rgb(242, 205, 138);
+    border-right: 50px solid transparent;
+    border-left: 50px solid transparent;
+    margin-top: -20px;
+}
+
+.scope {
+    height: 80px;
+    width: 80px;
+    /*background-color: rgb(254, 255, 194);*/
+    margin-left: 2%;
+    margin-top: -28px;
+    border-radius: 40px;
+}
+
+.strawberry {
+    background-color: rgb(255, 153, 162);
+}
+
+.vanila {
+    background-color: rgb(254, 255, 194);
+}
+
+.chocolate {
+    background-color: rgb(122, 77, 5);
+}
